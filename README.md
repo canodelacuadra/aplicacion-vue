@@ -1,5 +1,7 @@
 # aplicacion-vue
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/135488cb-f71e-4067-97a5-0551dbbbd761/deploy-status)](https://app.netlify.com/sites/sad-kepler-494db5/deploys)
+
 ## Project setup
 ```
 npm install
