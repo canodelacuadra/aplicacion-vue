@@ -1,6 +1,6 @@
 <template>
   <div>
-    <b-form @submit="onSubmit" @reset="onReset" v-if="show">
+    <b-form @submit="onSubmit" @reset="onReset" v-if="show" data-netlify="true">
       <b-form-group
         id="input-group-1"
         label="Dirección de email:"
